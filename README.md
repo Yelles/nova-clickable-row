@@ -28,4 +28,4 @@ public function boot()
 ```
 ## License
 
-The MIT License (MIT). [(Credit to Ryan Weber)](https://github.com/ryanw3b3r).
+The MIT License (MIT). [(Original credit to Ryan Weber)](https://github.com/ryanw3b3r).

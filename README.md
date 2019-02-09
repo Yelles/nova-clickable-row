@@ -4,7 +4,7 @@ Package that will enable default action on click or double click on resource tab
 
 From your project's folder run:
 ```
-composer require yelles/nova-clickable-row;
+composer require yelles/nova-clickable-row
 ```
 ## Customization
 
@@ -28,4 +28,4 @@ public function boot()
 ```
 ## License
 
-The MIT License (MIT).[(Credit to Ryan Weber)](https://github.com/ryanw3b3r).
+The MIT License (MIT). [(Credit to Ryan Weber)](https://github.com/ryanw3b3r).

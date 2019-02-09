@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshmakerz\NovaClickableRow;
+namespace Yelles\NovaClickableRow;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

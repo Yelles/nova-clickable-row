@@ -1,5 +1,5 @@
 {
-    "name": "freshmakerz/nova-clickable-row",
+    "name": "yelles/nova-clickable-row",
     "description": "A Laravel Nova clickable row.",
     "keywords": [
         "laravel",
@@ -8,8 +8,8 @@
     ],
 	"authors": [
 		{
-			"name": "Freshmakerz",
-			"email": "Freshmakerz",
+			"name": "Yelles",
+			"email": "Yelles",
 			"role": "Developper"
 		}
 	],
@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Freshmakerz\\NovaClickableRow\\": "src/"
+            "Yelles\\NovaClickableRow\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Freshmakerz\\NovaClickableRow\\AssetServiceProvider"
+                "Yelles\\NovaClickableRow\\AssetServiceProvider"
             ]
         }
     },
